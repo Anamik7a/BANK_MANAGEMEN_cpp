@@ -1,2 +1,4 @@
-anamika 123 5000
-vedant 456 5000
+Anamika 9179 10000
+Shifa 7890 40000
+Stuti 5678 10000
+vedant 6375 5000
